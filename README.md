@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+just another repositor
+I am Jaykuamr Patel. I am really passionate about helping people.
